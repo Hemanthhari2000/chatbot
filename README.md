@@ -4,4 +4,4 @@ To run type the following command in terminal `python app.py`
 
 ## Screenshot
 
-![](resources/result.png)
+![](resources/bot.png)
