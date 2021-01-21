@@ -1,0 +1,4 @@
+django
+keras
+tensorflow
+nltk==3.5
