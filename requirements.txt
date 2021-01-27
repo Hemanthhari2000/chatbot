@@ -1,4 +1,3 @@
 Flask
-keras
 tensorflow
 nltk==3.5
