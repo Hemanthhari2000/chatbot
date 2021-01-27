@@ -1,5 +1,0 @@
-every thing is fine the app is connected to flask 
-
-issue
-    --- set up ajax for aysnc functionality
-    --- set up chat view to see prev messages too
